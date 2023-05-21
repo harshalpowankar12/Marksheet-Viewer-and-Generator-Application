@@ -15,19 +15,33 @@ The Marksheet Viewer component allows authorized users to access and view the ge
 - Automated calculations
 - Data storage and retrieval
 
-    
-## Screenshots
 
-<table>
-  <tr>
-    <td><img src='https://github.com/harshalpowankar12/Marksheet-Viewer-and-Generator-Application/blob/main/Marksheet_Viewer_Generator_App/src/main/webapp/screenshots/img1.png'></td>
-    <td><img src='https://github.com/harshalpowankar12/Marksheet-Viewer-and-Generator-Application/blob/main/Marksheet_Viewer_Generator_App/src/main/webapp/screenshots/img2.png'></td>
-    <td><img src='https://github.com/harshalpowankar12/Marksheet-Viewer-and-Generator-Application/blob/main/Marksheet_Viewer_Generator_App/src/main/webapp/screenshots/img3.png'></td>
-    <td><img src='https://github.com/harshalpowankar12/Marksheet-Viewer-and-Generator-Application/blob/main/Marksheet_Viewer_Generator_App/src/main/webapp/screenshots/img4.png'></td>
-  <td><img src='https://github.com/harshalpowankar12/Marksheet-Viewer-and-Generator-Application/blob/main/Marksheet_Viewer_Generator_App/src/main/webapp/screenshots/img5.png'></td>
-  </tr>
+## Interface
 
-</table>
+#### Home Page
+<p align="left">
+   <img src="https://github.com/harshalpowankar12/Marksheet-Viewer-and-Generator-Application/blob/main/Marksheet_Viewer_Generator_App/src/main/webapp/screenshots/img1.png" width="500"/>
+  
+</p>
+
+#### Evaluator Login Page
+<p align="left">
+   <img src="https://github.com/harshalpowankar12/Marksheet-Viewer-and-Generator-Application/blob/main/Marksheet_Viewer_Generator_App/src/main/webapp/screenshots/img2.png" width="500"/>
+</p>
+
+#### Adding Student Marks
+<p align="left">
+   <img src="https://github.com/harshalpowankar12/Marksheet-Viewer-and-Generator-Application/blob/main/Marksheet_Viewer_Generator_App/src/main/webapp/screenshots/img3.png" width="500"/>
+   <img src="https://github.com/harshalpowankar12/Marksheet-Viewer-and-Generator-Application/blob/main/Marksheet_Viewer_Generator_App/src/main/webapp/screenshots/img4.png" width="500"/>
+</p>
+
+#### Student Result
+<p align="left">
+   <img src="https://github.com/harshalpowankar12/Marksheet-Viewer-and-Generator-Application/blob/main/Marksheet_Viewer_Generator_App/src/main/webapp/screenshots/img5.png" width="500"/>
+</p>
+
+
+
 
 ## Used To build The app
 - Eclipse IDE
